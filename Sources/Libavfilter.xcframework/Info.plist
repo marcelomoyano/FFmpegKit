@@ -130,6 +130,8 @@
 			<string>tvos</string>
 		</dict>
 	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.streamvoodoo.srt.Libavfilter</string>
 	<key>CFBundlePackageType</key>
 	<string>XFWK</string>
 	<key>XCFrameworkFormatVersion</key>
